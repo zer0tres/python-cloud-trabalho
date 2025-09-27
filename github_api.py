@@ -6,3 +6,5 @@ response = requests.get(url).json()
 print("Nome:", response["name"])
 print("Descrição:", response["description"])
 print("Stars:", response["stargazers_count"])
+
+#comentario de teste do git pull
